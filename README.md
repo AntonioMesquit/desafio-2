@@ -3,6 +3,8 @@
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
+## SITE 
+<a href="https://antoniomesquit.github.io/desafio-2/" target="_blank" rel="external">Clique aqui</a>
 
 Thanks for checking out this front-end coding challenge.
 
